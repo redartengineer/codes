@@ -1,7 +1,4 @@
 """ 
-Author: Kyara Gandara
-Lab: SDSU DSIM Lab
-Date: 11/10/2024
 Code Name: Extremum Seeking Control Follow Line Test
 Version: 01
 Objective:
